@@ -1,5 +1,5 @@
 # backup_to_pan_and_ftp
-自动备份各类编程脚本及python，R，conda已安装包信息至百度云盘及FTP服务器
+自动备份各类编程脚本及python，R，conda已安装包信息至百度云盘或FTP服务器
 
 ## 主要脚本说明
 
