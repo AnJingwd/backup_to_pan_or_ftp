@@ -5,7 +5,7 @@
 
 - backup_main.py ：  备份的主函数
 - backup_function.py ：  封装的函数，供主函数调用。百度网盘操作基于bypy包，ftp操作基于ftplib包
-- conf.py 所有所需参数的配置文件，默认每隔1天备份一次，可通过days参数修改。同时删除3天前备份的文件
+- conf.py ： 所有所需参数的配置文件，默认每隔1天备份一次，可通过days参数修改。同时删除3天前备份的文件
 - requirements.py ： 该仓库所依赖的python包，使用python -m pip install -r requirements.py进行批量安装
 
 ## 其他脚本
