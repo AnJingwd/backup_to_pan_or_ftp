@@ -18,3 +18,5 @@
 
 - find_targeted_files(source_dir,today_dir,pattern_list,exclude_dirs_list="") ： 用于选择需要备份的文件及其目录，source_dir指定需要备份的路径，today_dir指定备份的文件及目录的本地存放位置，pattern_list通过正则表达式列表指定需要备份哪些文件，exclude_dirs_list用于指定不需要备份的目录列表
 
+- record_requirement(today_dir,mypython,Rscript,R_packages_installed,conda) ： 用于备份已经安装的python包信息，R包及Bioconductor包信息，conda包信息，方便环境的移植
+
