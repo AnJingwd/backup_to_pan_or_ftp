@@ -1,7 +1,7 @@
 [baseconf]
-ftpserver = '202.120.2.1'
-username = 'wdong_168'
-password = 'wdjy5257'
+ftpserver = 'YOUR FTP SERVER'
+username = 'USERNAME'
+password = 'PASSWARD'
 port=21
 
 [softwares]
